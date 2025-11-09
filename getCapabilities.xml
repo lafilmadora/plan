@@ -216,6 +216,26 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
+				<Layers>GH:clima</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:900913</SRS>
+				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
+				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:clima</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:4326</SRS>
+				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
+				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
 				<Layers>GH:corrientes_de_agua</Layers>
 				<Styles></Styles>
 			</TileSet>
@@ -336,6 +356,26 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
+				<Layers>GH:marginacion</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:900913</SRS>
+				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
+				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:marginacion</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:4326</SRS>
+				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
+				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
 				<Layers>GH:vegetacion</Layers>
 				<Styles></Styles>
 			</TileSet>
@@ -416,6 +456,26 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
+				<Layers>GH:subcuenca</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:900913</SRS>
+				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
+				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
+				<Layers>GH:subcuenca</Layers>
+				<Styles></Styles>
+			</TileSet>
+			<TileSet>
+				<SRS>EPSG:4326</SRS>
+				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
+				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
+				<Width>256</Width>
+				<Height>256</Height>
+				<Format>image/png</Format>
 				<Layers>GH:geologia</Layers>
 				<Styles></Styles>
 			</TileSet>
@@ -456,26 +516,6 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:clima</Layers>
-				<Styles></Styles>
-			</TileSet>
-			<TileSet>
-				<SRS>EPSG:900913</SRS>
-				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
-				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
-				<Width>256</Width>
-				<Height>256</Height>
-				<Format>image/png</Format>
-				<Layers>GH:clima</Layers>
-				<Styles></Styles>
-			</TileSet>
-			<TileSet>
-				<SRS>EPSG:4326</SRS>
-				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
-				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
-				<Width>256</Width>
-				<Height>256</Height>
-				<Format>image/png</Format>
 				<Layers>GH:curvas_nivel</Layers>
 				<Styles></Styles>
 			</TileSet>
@@ -507,26 +547,6 @@
 				<Height>256</Height>
 				<Format>image/png</Format>
 				<Layers>GH:corriente_de_agua_</Layers>
-				<Styles></Styles>
-			</TileSet>
-			<TileSet>
-				<SRS>EPSG:4326</SRS>
-				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
-				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
-				<Width>256</Width>
-				<Height>256</Height>
-				<Format>image/png</Format>
-				<Layers>GH:subcuenca</Layers>
-				<Styles></Styles>
-			</TileSet>
-			<TileSet>
-				<SRS>EPSG:900913</SRS>
-				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
-				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
-				<Width>256</Width>
-				<Height>256</Height>
-				<Format>image/png</Format>
-				<Layers>GH:subcuenca</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -627,26 +647,6 @@
 				<Height>256</Height>
 				<Format>image/png</Format>
 				<Layers>GH:regiones</Layers>
-				<Styles></Styles>
-			</TileSet>
-			<TileSet>
-				<SRS>EPSG:4326</SRS>
-				<BoundingBox SRS="EPSG:4326" minx="-180.0" miny="-90.0" maxx="0.0" maxy="90.0"></BoundingBox>
-				<Resolutions>0.703125 0.3515625 0.17578125 0.087890625 0.0439453125 0.02197265625 0.010986328125 0.0054931640625 0.00274658203125 0.001373291015625 6.866455078125E-4 3.4332275390625E-4 1.71661376953125E-4 8.58306884765625E-5 4.291534423828125E-5 2.1457672119140625E-5 1.0728836059570312E-5 5.364418029785156E-6 2.682209014892578E-6 1.341104507446289E-6 6.705522537231445E-7 3.3527612686157227E-7</Resolutions>
-				<Width>256</Width>
-				<Height>256</Height>
-				<Format>image/png</Format>
-				<Layers>GH:marginacion</Layers>
-				<Styles></Styles>
-			</TileSet>
-			<TileSet>
-				<SRS>EPSG:900913</SRS>
-				<BoundingBox SRS="EPSG:900913" minx="-2.003750834E7" miny="-2.003750834E7" maxx="2.003750834E7" maxy="2.003750834E7"></BoundingBox>
-				<Resolutions>156543.03390625 78271.516953125 39135.7584765625 19567.87923828125 9783.939619140625 4891.9698095703125 2445.9849047851562 1222.9924523925781 611.4962261962891 305.74811309814453 152.87405654907226 76.43702827453613 38.218514137268066 19.109257068634033 9.554628534317017 4.777314267158508 2.388657133579254 1.194328566789627 0.5971642833948135 0.29858214169740677 0.14929107084870338 0.07464553542435169 0.037322767712175846 0.018661383856087923 0.009330691928043961 0.004665345964021981 0.0023326729820109904 0.0011663364910054952 5.831682455027476E-4 2.915841227513738E-4 1.457920613756869E-4</Resolutions>
-				<Width>256</Width>
-				<Height>256</Height>
-				<Format>image/png</Format>
-				<Layers>GH:marginacion</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -808,6 +808,26 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
+				<Name>GH:clima</Name>
+				<Title>clima</Title>
+				<Abstract>GH:clima ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:7</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-115.224299923851" miny="22.871657269774" maxx="-109.413109609362" maxy="28.0000017109745"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-115.224299923851" miny="22.871657269774" maxx="-109.413109609362" maxy="28.0000017109745"></BoundingBox>
+				<Style>
+					<Name>1</Name>
+					<Title>1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=clima"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
 				<Name>GH:corrientes_de_agua</Name>
 				<Title>corrientes_de_agua</Title>
 				<Abstract>GH:corrientes_de_agua ABSTRACT</Abstract>
@@ -928,6 +948,26 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
+				<Name>GH:marginacion</Name>
+				<Title>marginacion</Title>
+				<Abstract>GH:marginacion ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:7</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-114.905712137828" miny="22.8717010688433" maxx="-109.627972835474" maxy="27.9877915542267"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-114.905712137828" miny="22.8717010688433" maxx="-109.627972835474" maxy="27.9877915542267"></BoundingBox>
+				<Style>
+					<Name>1</Name>
+					<Title>1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=marginacion"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
 				<Name>GH:vegetacion</Name>
 				<Title>vegetacion</Title>
 				<Abstract>GH:vegetacion ABSTRACT</Abstract>
@@ -1008,6 +1048,26 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
+				<Name>GH:subcuenca</Name>
+				<Title>subcuenca</Title>
+				<Abstract>GH:subcuenca ABSTRACT</Abstract>
+				<KeywordList>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:7</Keyword>
+				</KeywordList>
+				<SRS>EPSG:4326</SRS>
+				<LatLonBoundingBox minx="-115.082446421765" miny="22.8716572696673" maxx="-109.413109609721" maxy="28.0000017104107"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-115.082446421765" miny="22.8716572696673" maxx="-109.413109609721" maxy="28.0000017104107"></BoundingBox>
+				<Style>
+					<Name>1</Name>
+					<Title>1</Title>
+					<Abstract></Abstract>
+					<LegendURL width="20" height="20">
+						<Format>image/png</Format>
+						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=subcuenca"></OnlineResource>
+					</LegendURL>
+				</Style>
+			</Layer>
+			<Layer queryable="1" opaque="0">
 				<Name>GH:geologia</Name>
 				<Title>geologia</Title>
 				<Abstract>GH:geologia ABSTRACT</Abstract>
@@ -1044,26 +1104,6 @@
 					<LegendURL width="20" height="20">
 						<Format>image/png</Format>
 						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=cuencas"></OnlineResource>
-					</LegendURL>
-				</Style>
-			</Layer>
-			<Layer queryable="1" opaque="0">
-				<Name>GH:clima</Name>
-				<Title>clima</Title>
-				<Abstract>GH:clima ABSTRACT</Abstract>
-				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:7</Keyword>
-				</KeywordList>
-				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-115.224299923851" miny="22.871657269774" maxx="-109.413109609362" maxy="28.0000017109745"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-115.224299923851" miny="22.871657269774" maxx="-109.413109609362" maxy="28.0000017109745"></BoundingBox>
-				<Style>
-					<Name>1</Name>
-					<Title>1</Title>
-					<Abstract></Abstract>
-					<LegendURL width="20" height="20">
-						<Format>image/png</Format>
-						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=clima"></OnlineResource>
 					</LegendURL>
 				</Style>
 			</Layer>
@@ -1108,26 +1148,6 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
-				<Name>GH:subcuenca</Name>
-				<Title>subcuenca</Title>
-				<Abstract>GH:subcuenca ABSTRACT</Abstract>
-				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:7</Keyword>
-				</KeywordList>
-				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-115.082446421765" miny="22.8716572696673" maxx="-109.413109609721" maxy="28.0000017104107"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-115.082446421765" miny="22.8716572696673" maxx="-109.413109609721" maxy="28.0000017104107"></BoundingBox>
-				<Style>
-					<Name>1</Name>
-					<Title>1</Title>
-					<Abstract></Abstract>
-					<LegendURL width="20" height="20">
-						<Format>image/png</Format>
-						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=subcuenca"></OnlineResource>
-					</LegendURL>
-				</Style>
-			</Layer>
-			<Layer queryable="1" opaque="0">
 				<Name>GH:manzanas</Name>
 				<Title>manzanas</Title>
 				<Abstract>GH:manzanas ABSTRACT</Abstract>
@@ -1152,7 +1172,7 @@
 				<Title>indice_de_impacto_humano</Title>
 				<Abstract>GH:indice_de_impacto_humano ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:tif:::disabledownload:notListing::maxZoom:7</Keyword>
+					<Keyword>group:tif::://github.com/lafilmadora/plan/releases/download/Map_Download/indice_de_impacto_humano.zip:notListing::maxZoom:7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-115.63646790945577" miny="22.204103764085456" maxx="-108.99300320707749" maxy="28.6083659757448"></LatLonBoundingBox>
@@ -1172,7 +1192,7 @@
 				<Title>concentracion_de_equipamientos</Title>
 				<Abstract>GH:concentracion_de_equipamientos ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:tif:::disabledownload:notListing::maxZoom:7</Keyword>
+					<Keyword>group:tif::://github.com/lafilmadora/plan/releases/download/Map_Download/concentracion_de_equipamientos.zip:notListing::maxZoom:7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-115.36821587681222" miny="22.79877976872283" maxx="-109.34069396183988" maxy="28.070307409613886"></LatLonBoundingBox>
@@ -1192,7 +1212,7 @@
 				<Title>densidad_de_poblacion</Title>
 				<Abstract>GH:densidad_de_poblacion ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:tif:::disabledownload:notListing::maxZoom:7</Keyword>
+					<Keyword>group:tif::://github.com/lafilmadora/plan/releases/download/Map_Download/densidad_de_poblacion.zip:notListing::maxZoom:7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-115.19166339302785" miny="22.814983868340335" maxx="-109.33977073192355" maxy="28.043197116483277"></LatLonBoundingBox>
@@ -1228,31 +1248,11 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
-				<Name>GH:marginacion</Name>
-				<Title>marginacion</Title>
-				<Abstract>GH:marginacion ABSTRACT</Abstract>
-				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:7</Keyword>
-				</KeywordList>
-				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-114.905712137828" miny="22.8717010688433" maxx="-109.627972835474" maxy="27.9877915542267"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-114.905712137828" miny="22.8717010688433" maxx="-109.627972835474" maxy="27.9877915542267"></BoundingBox>
-				<Style>
-					<Name>1</Name>
-					<Title>1</Title>
-					<Abstract></Abstract>
-					<LegendURL width="20" height="20">
-						<Format>image/png</Format>
-						<OnlineResource xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:href="https://maps.csr.ufmg.br:443/geoserver/wms?request=GetLegendGraphic&amp;format=image%2Fpng&amp;width=20&amp;height=20&amp;layer=marginacion"></OnlineResource>
-					</LegendURL>
-				</Style>
-			</Layer>
-			<Layer queryable="1" opaque="0">
 				<Name>GH:dem</Name>
 				<Title>dem</Title>
 				<Abstract>GH:dem ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:tif:::disabledownload:notListing::maxZoom:7</Keyword>
+					<Keyword>group:tif::://github.com/lafilmadora/plan/releases/download/Map_Download/dem.zip:notListing::maxZoom:7</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-115.223764338" miny="22.871954055" maxx="-109.41320877699991" maxy="28.000009615000003"></LatLonBoundingBox>
